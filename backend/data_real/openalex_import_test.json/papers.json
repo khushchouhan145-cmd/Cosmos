@@ -1,0 +1,121 @@
+[
+  {
+    "paper_id": "https://openalex.org/W2961108520",
+    "title": "A Review of the Space Environment Effects on Spacecraft in Different Orbits",
+    "abstract": "The space environment consists of various complex phenomena, which could have a strong influence on the spacecraft operation in different aspects. Since the very beginning of space exploration, numerous studies have been done on the space environment. However, most of the existing literature focuses on the investigation of the details of environmental phenomena, while the space environment has rarely been discussed from the perspective of orbits types. Therefore, a comprehensive review on analyzing and comparing the environmental characteristics among diverse orbits in space is of great significance. In this paper, the main components of the space environment are introduced, including the neutral atmosphere, the plasma environment, the radiation environment, the macroscopic particle environment, the geomagnetic field, the temperature field, and the solar activities. The relations of the various space environmental components are also discussed. The dominant environmental components and their effects on spacecraft in different orbits, i.e., the geosynchronous orbit (GEO), the low earth orbit (LEO), the medium earth orbit (MEO), and the high earth orbit (HEO), are investigated, respectively. The space environment that should be taken into particular consideration is summed up to facilitate the design of the spacecraft in a specific orbit.",
+    "authors": [],
+    "publication_date": "2019-01-01",
+    "publication_year": 2019,
+    "journal": null,
+    "conference": null,
+    "publisher": null,
+    "doi": "10.1109/access.2019.2927811",
+    "source_url": null,
+    "open_access_url": null,
+    "country": "CN",
+    "organizations": [
+      "Harbin Institute of Technology",
+      "State Key Laboratory of Robotics and Systems"
+    ],
+    "citation_count": null,
+    "reference_count": null,
+    "research_type": null,
+    "derived": {
+      "topics": [
+        "Other topics"
+      ],
+      "subtopics": [],
+      "missions": [],
+      "spacecraft": [],
+      "technologies": [],
+      "methods": [],
+      "entities": [],
+      "keywords": [],
+      "embedding_reference": null
+    },
+    "is_synthetic": false
+  },
+  {
+    "paper_id": "https://openalex.org/W2783277077",
+    "title": "Space Propulsion Technology for Small Spacecraft",
+    "abstract": "As small satellites become more popular and capable, strategies to provide in-space propulsion increase in importance. Applications range from orbital changes and maintenance, attitude control and desaturation of reaction wheels to drag compensation and de-orbit at spacecraft end-of-life. Space propulsion can be enabled by chemical or electric means, each having different performance and scalability properties. The purpose of this review is to describe the working principles of space propulsion technologies proposed so far for small spacecraft. Given the size, mass, power, and operational constraints of small satellites, not all types of propulsion can be used and very few have seen actual implementation in space. Emphasis is given in those strategies that have the potential of miniaturization to be used in all classes of vehicles, down to the popular 1-L, 1-kg CubeSats and smaller.",
+    "authors": [],
+    "publication_date": "2018-01-09",
+    "publication_year": 2018,
+    "journal": null,
+    "conference": null,
+    "publisher": null,
+    "doi": "10.1109/jproc.2017.2778747",
+    "source_url": null,
+    "open_access_url": null,
+    "country": "United States",
+    "organizations": [
+      "Massachusetts Institute of Technology"
+    ],
+    "citation_count": null,
+    "reference_count": null,
+    "research_type": null,
+    "derived": {
+      "topics": [
+        "Other topics"
+      ],
+      "subtopics": [],
+      "missions": [],
+      "spacecraft": [],
+      "technologies": [],
+      "methods": [],
+      "entities": [],
+      "keywords": [],
+      "embedding_reference": null
+    },
+    "is_synthetic": false
+  },
+  {
+    "paper_id": "https://openalex.org/W3110484904",
+    "title": "A Quarter Century of Wind Spacecraft Discoveries",
+    "abstract": "The Wind spacecraft, launched on November 1, 1994, is a critical element in NASA’s Heliophysics System Observatory (HSO)—a fleet of spacecraft created to understand the dynamics of the Sun‐Earth system. The combination of its longevity (>25 years in service), its diverse complement of instrumentation, and high resolution and accurate measurements has led to it becoming the “standard candle” of solar wind measurements. Wind has over 55 selectable public data products with over ∼1,100 total data variables (including OMNI data products) on SPDF/CDAWeb alone. These data have led to paradigm shifting results in studies of statistical solar wind trends, magnetic reconnection, large‐scale solar wind structures, kinetic physics, electromagnetic turbulence, the Van Allen radiation belts, coronal mass ejection topology, interplanetary and interstellar dust, the lunar wake, solar radio bursts, solar energetic particles, and extreme astrophysical phenomena such as gamma‐ray bursts. This review introduces the mission and instrument suites then discusses examples of the contributions by Wind to these scientific topics that emphasize its importance to both the fields of heliophysics and astrophysics.",
+    "authors": [],
+    "publication_date": "2021-05-14",
+    "publication_year": 2021,
+    "journal": null,
+    "conference": null,
+    "publisher": null,
+    "doi": "10.1029/2020rg000714",
+    "source_url": null,
+    "open_access_url": null,
+    "country": "GB;US",
+    "organizations": [
+      "Goddard Space Flight Center",
+      "Heliophysics Science Division",
+      "Massachusetts Institute of Technology",
+      "Northumbria University",
+      "Pennsylvania State University",
+      "Princeton University",
+      "Queen Mary University of London",
+      "Space Sciences Laboratory",
+      "University College London",
+      "University of California System",
+      "University of California, Berkeley",
+      "University of Maryland, College Park",
+      "University of Michigan",
+      "University of New Hampshire"
+    ],
+    "citation_count": null,
+    "reference_count": null,
+    "research_type": null,
+    "derived": {
+      "topics": [
+        "Other topics"
+      ],
+      "subtopics": [],
+      "missions": [],
+      "spacecraft": [],
+      "technologies": [],
+      "methods": [],
+      "entities": [],
+      "keywords": [],
+      "embedding_reference": null
+    },
+    "is_synthetic": false
+  }
+]
